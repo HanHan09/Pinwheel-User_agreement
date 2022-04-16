@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## 小风车计时用户使用协议
 
-You can use the [editor on GitHub](https://github.com/HanHan09/Pinwheel-user-agreement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+感谢使用小风车计时，小风车计时的所有权和运作权归小风车计时开发者所有。以下服务条款对您使用和访问小风车计时提供的服务做出了规定。使用我们的服务，即表示您同意接受这些条款的约束，并了解我们的隐私政策。这些条款构成了您与小风车计时之间达成的完整协议，协议的一方是您，另一方是小风车计时开发者，在本服务条款中称为 “小风车计时”或“我们”。如果您代表某个组织使用我们的服务，则您代表该组织同意这些条款。如果您不同意这些条款，则必须停止使用我们的服务。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 1、用户隐私制度
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+尊重用户个人隐私是小风车计时的一项基本政策。要了解小风车计时数据保护措施的具体信息，请阅读小风车计时的隐私权政策；该政策解释了当您使用小风车计时的相关的服务时，小风车计时会如何处理您的个人信息，以及如何保护您的隐私权。您同意会在遵守小风车计时隐私权政策的前提下应用自己的数据。
 
-```markdown
-Syntax highlighted code block
+### 2、您的资料与数据
 
-# Header 1
-## Header 2
-### Header 3
+当您使用我们的服务时，您保留向我们提供的文件、文本内容等资料，以及您利用我们的服务生成的记录和内容的所有权。您的资料是属于您的，除了提供服务所需的有限权利外，这些条款不授予我们对您的资料的任何权利。             
+我们需要您的允许才能执行您要求我们执行的操作。我们的服务还将向您提供资料编辑、整理、统计等功能。这些功能以及其他功能可能会要求我们的系统访问、存储和扫描您的资料。您授予小风车计时一项全球性的许可，允许我们使用、存储、复制、修改这些资料。您需提供给我们执行这些操作的权限，这些权限可扩展至与我们合作的受信任第三方。
+             
+### 3、您的责任和义务
 
-- Bulleted
-- List
+您同意不滥用小风车计时的服务。例如，禁止且不得试图从事以下事项：           
+探测、扫描或测试任何系统或网络的漏洞，冲破或者绕过任何安全或验证措施；              
+访问、篡改或使用服务的非公共区域及未受到邀请的服务共享区域；
 
-1. Numbered
-2. List
+### 4、软件
 
-**Bold** and _Italic_ and `Code` text
+我们的部分服务允许您下载客户端软件。只要您遵守这些条款，我们便授予您免许可使用费的、不可转让的、非独占的使用许可，这项许可是有限的、非排他且可撤销的，我们仅允许您出于访问服务的目的而使用软件。您同意不对软件进行反向工程或反编译，不尝试这样做，也不协助任何人这样做。             
+           
+### 5、版权
 
-[Link](url) and ![Image](src)
-```
+小风车计时受版权法和其他中国和外国法律的保护。这些条款不授予您对小风车计时、小风车计时服务中其他人的内容、和其他品牌特性的任何权利或利益。               
+我们欢迎您反馈意见或提供建议，但请注意我们可能以任何目的和方式使用这些意见或建议而不向您承担任何义务。          
+                     
+### 6、风险和赔偿
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+在法律允许的范围内，我们不承担利润损失、收入损失或数据、财务损失或间接、特殊、后果性、惩戒性或惩罚性损害赔偿的责任。我们承担的赔偿责任的范围限于您因使用我们的服务而向我们支付的费用。        
+                
+### 7、终止
 
-### Jekyll Themes
+您随时可停止使用我们的服务。我们也保留随时单方中止或结束服务的权利，恕不另行通知。例如，如果您未遵守这些条款，或者您使用服务的方式将使我们承担法律责任、干扰服务运行或干扰他人使用服务，我们可以中止或终止您使用我们的服务。
+            
+### 8、修改
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HanHan09/Pinwheel-user-agreement/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我们可能会对条款进行修改。当条款有大幅度修改时，我们会在网页中显眼的位置贴出相关规定。            
+如果您在修订生效后继续使用或访问服务，即表示您同意接受修订后条款的约束。
+                      
+### 9、适用法律
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+这些条款受于中华人民共和国法律管辖，您同时需要遵守您所在的国家和地区的法律规定。              
+本协议基于中文撰写，其他语言版本仅为方便您的理解而提供，如与中文版本存在冲突，则以中文版本为准。
